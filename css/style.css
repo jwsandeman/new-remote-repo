@@ -1,0 +1,17 @@
+header{
+    background-color: #ff9900;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer{
+    background-color: #ff9900;
+    display: flex;
+    flex-direction: column;
+}
+
+div {
+    border: 1px solid green;
+    margin: 8px;
+}
