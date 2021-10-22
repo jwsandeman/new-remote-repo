@@ -13,5 +13,39 @@ footer{
 
 div {
     border: 1px solid green;
-    margin: 8px;
+    margin: 5px;
+    padding: 5px;
+}
+
+header h1 {
+    color: aqua;
+    margin: 2px;
+}
+
+.logo {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-media {
+    display: flex;
+    justify-content: space-around;
+}
+
+.social-media img {
+    width: 70px;
+}
+
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact-info p {
+    margin: 2px;
 }
